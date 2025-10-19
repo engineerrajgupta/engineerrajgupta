@@ -18,6 +18,15 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=engineerrajgupta&icon=3&color=0)](https://visitcount.itsvg.in)
 
+- 🔥 Check out my ***LeetCode*** Stats !
+
+  [![Leetcode Stats](https://leetcard.jacoblin.cool/rajgupta0001?ext=heatmap&theme=dark&border=3&radius=12)](https://leetcode.com/u/anshikachhabra_/)
+  <br><hr>
+  
+  ![](https://komarev.com/ghpvc/?username=engineerrajgupta&style=plastic&color=8f152a)
+
+
+
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rajjgupta) 
 
